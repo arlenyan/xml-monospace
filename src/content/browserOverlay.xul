@@ -4,6 +4,5 @@
 <!DOCTYPE overlay SYSTEM "chrome://xmlmonospace/locale/browserOverlay.dtd">
 
 <overlay id="xmlmonospace-browser-overlay" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
-	<script type="application/x-javascript" src="chrome://xmlmonospace/content/logger.js" />
 	<script type="application/x-javascript" src="chrome://xmlmonospace/content/browserOverlay.js" />
 </overlay>
