@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="chrome://global/skin/" ?>
+<?xml-stylesheet type="text/css" href="chrome://xmlmonospace/skin/browserOverlay.css" ?>
+<!DOCTYPE overlay SYSTEM "chrome://xmlmonospace/locale/browserOverlay.dtd">
+
+<overlay id="xmlmonospace-browser-overlay" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+	<script type="application/x-javascript" src="chrome://xmlmonospace/content/logger.js" />
+	<script type="application/x-javascript" src="chrome://xmlmonospace/content/browserOverlay.js" />
+</overlay>

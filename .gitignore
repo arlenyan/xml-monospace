@@ -1,0 +1,4 @@
+*.xpi
+
+# OSX specific
+.DS_Store
